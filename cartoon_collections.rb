@@ -11,7 +11,9 @@ end
   # Return a new array of the results
 def summon_captain_planet(planeteer_calls)
   #map{ |num| num * 2 }
-  planeteer_calls
+  planeteer_calls.map{ |element|
+    
+  }
 
 end
 
