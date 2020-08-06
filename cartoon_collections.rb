@@ -12,7 +12,7 @@ end
 def summon_captain_planet(planeteer_calls)
   #map{ |num| num * 2 }
   planeteer_calls.map do |element|
-    puts ""
+    puts "#{element}"
     
   }
 
